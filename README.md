@@ -1,21 +1,24 @@
 # FINCLUSION-FINSHIELD-IITH-_HACKATHON
 
-This repository contains our project progress report and code for the **IITH Hackathon – FINSHIELD**, focused on financial inclusion and risk detection.  
+This repository contains our project submission for the **IITH Hackathon – FINSHIELD**, focused on financial inclusion and risk detection.  
 
 ## 📂 Contents
-- **best_withGrid.ipynb**  
+- **bestwithgrid.ipynb**  
   - Main notebook containing all relevant code.  
   - Includes:
     - Data preprocessing and exploration  
     - Model training and evaluation  
     - Feature importance and interpretability analysis  
     - Final report write-up  
-    - Dashboard for visualization  
- 
+    - Dashboard code for visualization  
+
+- **finshield_dataset.csv**  
+  - Dataset used for analysis and model building.  
+  - Contains all the raw data required to reproduce results.  
 
 ## 📝 Notes
 - All analysis, performance graphs, and dashboards are integrated into the notebook.  
-- The notebook is self-contained and can be used as both the **codebase** and **final report**.  
+- The notebook and dataset are self-contained, ensuring reproducibility.  
 
 ---
 
