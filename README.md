@@ -1,4 +1,4 @@
-# FINCLUSION-FINSHIELD-IITH-_HACKATHON
+# FINCLUSION-FINSHIELD-IITH-HACKATHON
 
 This repository contains our project submission for the **IITH Hackathon – FINSHIELD**, focused on financial inclusion and risk detection.  
 
